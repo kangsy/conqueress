@@ -1,12 +1,12 @@
-# Conqueress
+* Conqueress
 
 A Clojure library which helps you starting a cqrs-based service by providing the basic usage patterns.
 
-## Usage
+** Usage
 
 FIXME
 
-## License
+** License
 
 Copyright © 2017 Kang Research & Development GmbH, Hamburg, Germany
 
